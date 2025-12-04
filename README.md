@@ -37,7 +37,8 @@ Flask-based productivity app with analytics.
 ---
 
 ## 📫 Contact Me
-📧 Email: **kaviyasundar981@gmail.com** 
+📧 Email: **kaviyasundar981@gmail.com**
+🔗 LinkedIn: https://www.linkedin.com/in/srikaviya-salu-a70aab372/
 
 ---
 
