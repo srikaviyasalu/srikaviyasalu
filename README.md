@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Srikaviya Salu. S  
 
-<!--
-**srikaviyasalu/srikaviyasalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE – Data Science Student  
+💻 Aspiring Data Scientist & Python Developer  
+🚀 Passionate about AI, ML, Flask, and building smart apps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🔍 Exploring Data Science & Machine Learning  
+- 💻 Building real-time apps using Python & Flask  
+- 📚 Improving my GitHub projects and portfolio  
+- 🧠 Currently rebuilding my project **StudyMate**  
+- ✨ Always curious to learn something new
+
+---
+
+## 🛠️ Skills & Technologies
+**Languages:** Python, C, SQL  
+**Frameworks:** Flask  
+**Tools:** Git, GitHub, VS Code  
+**Domains:** Data Science, Machine Learning, Web Development  
+
+---
+
+## 📂 Featured Projects
+### 🟣 StudyMate – Smart Student Task Scheduler  
+Flask-based productivity app with analytics.  
+*(New improved version coming soon!)*
+
+### 🟡 Mini Python Projects  
+- Calculator  
+- Weather App  
+- Simple ML Model  
+*(Will upload soon)*
+
+---
+
+## 📫 Contact Me
+📧 Email: **kaviyasundar981@gmail.com** 
+
+---
+
+✨ *Learning. Building. Growing.*  
